@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rohan Tonpe -- rohan.tonpe@gmail.com -- @rohan
 
 # THANKS
 
